@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dummy-torch"
+  site-url: "https://khannay.github.io/dummy-torch"
+  description: "Collection of testing example data sets for use in developing DL models in torch"
+  repo-branch: main
+  repo-url: "https://github.com/khannay/dummy-torch"
